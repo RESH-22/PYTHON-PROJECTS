@@ -77,12 +77,6 @@ python calculator.py
 ![Visitors](https://komarev.com/ghpvc/?username=RESH-22&color=brightgreen)
 
 ---
-
-# Repository Activity Graph
-
-![Repo Activity](https://github-readme-activity-graph.vercel.app/graph?username=RESH-22&repo=PYTHON-PROJECTS&theme=github-compact)
-
----
 # Contributing
 
 Contributions are welcome!
