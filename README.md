@@ -78,7 +78,7 @@ python calculator.py
 
 ---
 
-## 🐍 Python Developer Roadmap
+# Python Developer Roadmap
 
 ### 📌 Phase 1: Python Basics
 - [x] Variables and Data Types
