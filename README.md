@@ -173,5 +173,4 @@ GitHub: https://github.com/RESH-22
 <p align="center">
 Made with ❤️ using Python
 </p>
-```
 
