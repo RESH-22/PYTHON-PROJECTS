@@ -72,6 +72,22 @@ python calculator.py
 
 ```
 
+---
+
+# Download Individual Projects
+
+You can download any project folder from this repository using this tool:
+
+🔗 https://download-directory.github.io/
+
+### Steps
+1. Open the project folder in this repository.
+2. Copy the folder URL from the browser.
+3. Paste it in the website above.
+4. Click **Download** to get the folder as a ZIP file.
+
+---
+
 # Visitor Counter
 
 ![Visitors](https://komarev.com/ghpvc/?username=RESH-22&color=brightgreen)
