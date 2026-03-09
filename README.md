@@ -77,6 +77,70 @@ python calculator.py
 ![Visitors](https://komarev.com/ghpvc/?username=RESH-22&color=brightgreen)
 
 ---
+
+## 🐍 Python Developer Roadmap
+
+### 📌 Phase 1: Python Basics
+- [x] Variables and Data Types
+- [x] Operators
+- [x] Conditional Statements
+- [x] Loops (for / while)
+- [x] Functions
+- [x] Basic Python Programs
+
+### 📌 Phase 2: Intermediate Python
+- [x] Lists, Tuples, Sets, Dictionaries
+- [x] String Manipulation
+- [x] File Handling
+- [x] Exception Handling
+- [x] Modules and Packages
+
+### 📌 Phase 3: Practice with Projects
+- [x] Calculator
+- [x] Number Guessing Game
+- [x] Contact Book
+- [x] Password Generator
+- [x] Quiz Game
+- [x] File Organizer
+
+### 📌 Phase 4: Advanced Python
+- [ ] Object Oriented Programming (OOP)
+- [ ] Decorators
+- [ ] Generators
+- [ ] Multithreading
+- [ ] Virtual Environments
+
+### 📌 Phase 5: Python Development Paths
+Choose a specialization 👇
+
+#### 🌐 Web Development
+- [ ] Django
+- [ ] Flask
+- [ ] REST APIs
+- [ ] Database Integration
+
+#### 🤖 AI / Machine Learning
+- [ ] NumPy
+- [ ] Pandas
+- [ ] Matplotlib
+- [ ] Scikit-learn
+- [ ] TensorFlow / PyTorch
+
+#### ⚙️ Automation / Scripting
+- [ ] Web Scraping (BeautifulSoup, Selenium)
+- [ ] Task Automation
+- [ ] System Scripts
+- [ ] Data Processing
+
+### 📌 Phase 6: Professional Skills
+- [ ] Git & GitHub
+- [ ] Build Portfolio Projects
+- [ ] Write Clean Code
+- [ ] Contribute to Open Source
+- [ ] Prepare for Python Interviews
+
+
+---
 # Contributing
 
 Contributions are welcome!
