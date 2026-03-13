@@ -4,3 +4,4 @@ Asn = input("Enter the Asn to Get the Ip Range : ") #Iknow the code suck but i c
 web = url.urlopen("https://api.hackertarget.com/aslookup/?q=" + Asn)
 data = list(str(web.read()).split("n"))
 for i in data:print(str(i)[:-1])
+
