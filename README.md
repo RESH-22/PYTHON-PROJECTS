@@ -1,0 +1,192 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff7f,100:008000&height=200&section=header&text=Python%20Projects&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=28&center=true&vCenter=true&width=600&lines=Welcome+to+My+Python+Projects;Beginner+Friendly+Python+Programs;Practice+Coding+Daily;Build+Projects+and+Learn"/>
+</p>
+
+<p align="center">
+A collection of beginner to intermediate Python projects for learning and practice.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-Projects-green?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/github/stars/RESH-22/PYTHON-PROJECTS?style=for-the-badge&color=green"/>
+<img src="https://img.shields.io/github/forks/RESH-22/PYTHON-PROJECTS?style=for-the-badge&color=green"/>
+<img src="https://img.shields.io/github/license/RESH-22/PYTHON-PROJECTS?style=for-the-badge&color=green"/>
+
+</p>
+
+---
+
+# About The Repository
+
+This repository contains multiple **Python mini projects** created for practice and learning.  
+Each project demonstrates different Python concepts like:
+
+- File Handling
+- Loops & Conditions
+- Functions
+- String Manipulation
+- Random Module
+- CLI Applications
+
+These projects are helpful for **Python beginners, students, and coding practice**.
+
+---
+
+# Technologies Used
+
+- Python 3
+- Standard Python Libraries
+- Command Line Interface (CLI)
+
+---
+
+# ▶️ How To Run
+
+1️⃣ Clone the repository
+
+```
+
+git clone [https://github.com/RESH-22/PYTHON-PROJECTS.git](https://github.com/RESH-22/PYTHON-PROJECTS.git)
+
+```
+
+2️⃣ Navigate to the folder
+
+```
+
+cd PYTHON-PROJECTS
+
+```
+
+3️⃣ Run any project
+
+```
+
+python calculator.py
+
+```
+
+---
+
+# Download Individual Projects
+
+You can download any project folder from this repository using this tool:
+
+🔗 https://download-directory.github.io/
+
+### Steps
+1. Open the project folder in this repository.
+2. Copy the folder URL from the browser.
+3. Paste it in the website above.
+4. Click **Download** to get the folder as a ZIP file.
+
+---
+
+# Visitor Counter
+
+![Visitors](https://komarev.com/ghpvc/?username=RESH-22&color=brightgreen)
+
+---
+
+# Python Developer Roadmap
+
+### 📌 Phase 1: Python Basics
+- [x] Variables and Data Types
+- [x] Operators
+- [x] Conditional Statements
+- [x] Loops (for / while)
+- [x] Functions
+- [x] Basic Python Programs
+
+### 📌 Phase 2: Intermediate Python
+- [x] Lists, Tuples, Sets, Dictionaries
+- [x] String Manipulation
+- [x] File Handling
+- [x] Exception Handling
+- [x] Modules and Packages
+
+### 📌 Phase 3: Practice with Projects
+- [x] Calculator
+- [x] Number Guessing Game
+- [x] Contact Book
+- [x] Password Generator
+- [x] Quiz Game
+- [x] File Organizer
+
+### 📌 Phase 4: Advanced Python
+- [ ] Object Oriented Programming (OOP)
+- [ ] Decorators
+- [ ] Generators
+- [ ] Multithreading
+- [ ] Virtual Environments
+
+### 📌 Phase 5: Python Development Paths
+Choose a specialization 👇
+
+#### 🌐 Web Development
+- [ ] Django
+- [ ] Flask
+- [ ] REST APIs
+- [ ] Database Integration
+
+#### 🤖 AI / Machine Learning
+- [ ] NumPy
+- [ ] Pandas
+- [ ] Matplotlib
+- [ ] Scikit-learn
+- [ ] TensorFlow / PyTorch
+
+#### ⚙️ Automation / Scripting
+- [ ] Web Scraping (BeautifulSoup, Selenium)
+- [ ] Task Automation
+- [ ] System Scripts
+- [ ] Data Processing
+
+### 📌 Phase 6: Professional Skills
+- [ ] Git & GitHub
+- [ ] Build Portfolio Projects
+- [ ] Write Clean Code
+- [ ] Contribute to Open Source
+- [ ] Prepare for Python Interviews
+
+
+---
+# Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create a new branch
+3. Add your Python project
+4. Submit a Pull Request
+
+---
+
+# Support
+
+If you like this repository:
+
+⭐ Star the repo  
+🍴 Fork it  
+🐍 Practice Python
+
+---
+
+# Author
+
+**Reshmitha R**
+
+GitHub: https://github.com/RESH-22
+
+---
+
+<p align="center">
+Made with ❤️ using Python
+</p>
+
